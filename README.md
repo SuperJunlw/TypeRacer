@@ -1,7 +1,3 @@
-# cd Backend (to run backend)
-# cd Frontend/react_app (to run frontend)
-# npm install (to install react)
-# npm start (to start react)
+# A typing website for user to play typing game and practice typing skill. Develop by a team of 6.
 
-npm ci <-- only updates from the package-lock.json <br/>
-node src <-- start the backend
+
