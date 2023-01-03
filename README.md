@@ -22,3 +22,5 @@ Creating the front landing page using React.js, HTML/CSS
 
 Creating the navigation bar to move around between pages
 
+Help design the overall visual theme of the website.
+
