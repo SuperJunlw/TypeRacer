@@ -1,7 +1,7 @@
 # TypeRacer Website
 A typing website for user to play typing game and practice typing skill. Develop by a team of 6.
 
-The website create using React.js, Node.js, Express.js, MongoDB.
+The website create using React.js, Node.js, Express.js, MongoDB, Express.js.
 
 
 
